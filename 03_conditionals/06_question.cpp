@@ -1,3 +1,16 @@
+//? Write a program to calculate marks to grades. Follow the conversion rule as given below.
+
+/*
+*    100-90 = A+
+*    90-80 = A
+*    80-70 = B+
+*    70-60 = B
+*    60-50 = C
+*    50-40 = D
+*    40-30 = E
+*    30-0 = F
+*/
+
 #include<iostream>
 using namespace std;
 

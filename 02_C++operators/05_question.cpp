@@ -1,3 +1,5 @@
+//? Write a program to calculate the sum of digits of a 3-digit number.
+
 #include<iostream>
 using namespace std;
 

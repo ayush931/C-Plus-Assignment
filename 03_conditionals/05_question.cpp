@@ -1,3 +1,5 @@
+//? create a calculator using switch statement to perform addition, substraction, multiplication and division.
+
 #include<iostream>
 using namespace std;
 

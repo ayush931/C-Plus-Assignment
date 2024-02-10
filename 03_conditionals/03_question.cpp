@@ -1,3 +1,5 @@
+//? Write a program to take input from user for Cost Price (C.P.) and Selling Price (S.P.) and calculate Profit and Loss.
+
 #include<iostream>
 using namespace std;
 

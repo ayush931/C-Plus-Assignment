@@ -1,3 +1,5 @@
+//? Write a program to print the cross pattern given below (in the shape of X).
+
 #include<iostream>
 using namespace std;
 
