@@ -5,6 +5,7 @@ using namespace std;
 
 int main () {
     int n;
+    cout << "Enter the n natural number: ";
     cin >> n;
 
     int sum = 0;
@@ -12,7 +13,7 @@ int main () {
     for (int i = 1; i <= n; i++) {
         sum += i;
     }
-    cout << "The sum of given natural number is: " << sum << endl;
+    cout << "The sum of given series of n natural number is: " << sum << endl;
 
     return 0;
 }

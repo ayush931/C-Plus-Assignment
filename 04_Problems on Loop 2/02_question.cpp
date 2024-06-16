@@ -1,4 +1,4 @@
-//? Write a program to print all Armstrong numbers between 100 to 500.
+//? Write a program to print all Armstrong numbers less than 500.
 
 #include<iostream>
 using namespace std;
