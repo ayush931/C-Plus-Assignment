@@ -6,7 +6,6 @@ using namespace std;
 int main () {
 
     int num;
-
     cout << "Number is: ";
     cin >> num;
 

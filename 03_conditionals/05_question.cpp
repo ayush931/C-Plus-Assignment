@@ -10,7 +10,7 @@ int main () {
     cout << "Enter your first number: ";
     cin >> num1;
 
-    cout << "Enter the operator";
+    cout << "Enter the operator: ";
     cin >> op;
 
     cout << "Enter second number: ";

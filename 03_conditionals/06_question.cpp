@@ -41,5 +41,7 @@ int main () {
         cout << "Invalid grade.";
     }
     
+    cout << endl;
+
     return 0;
 }
